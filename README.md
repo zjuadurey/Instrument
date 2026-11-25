@@ -20,8 +20,6 @@ InstrumentMT generates variants of quantum programs with classical control and a
 - NumPy, SymPy, and Z3 as package dependencies
 - Pytest for correctness checks and Matplotlib for benchmark plots
 
-See [requirements-validated.txt](requirements-validated.txt) for the versions used in the recorded validation.
-
 ---
 
 ## Usage
@@ -49,8 +47,6 @@ The command writes the source program, transformed variant, witness, and validat
 ```bash
 python -m pytest -q
 ```
-
-See [docs/VALIDATION.md](docs/VALIDATION.md) for the recorded validation and its scope.
 
 ### 4. Run the Microbenchmark
 
