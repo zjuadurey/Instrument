@@ -1,0 +1,30 @@
+{
+  "benchmark": "deterministic functional microbenchmark",
+  "python": "3.12.14",
+  "rows": [
+    {
+      "rule": "cancel",
+      "valid_accepted": 1,
+      "tampered_rejected": 1,
+      "operator_basis_residual": 1.1102230246251565e-16
+    },
+    {
+      "rule": "disjoint",
+      "valid_accepted": 1,
+      "tampered_rejected": 1,
+      "operator_basis_residual": 0.0
+    },
+    {
+      "rule": "phase_z",
+      "valid_accepted": 1,
+      "tampered_rejected": 1,
+      "operator_basis_residual": 1.1102230246251565e-16
+    },
+    {
+      "rule": "rename",
+      "valid_accepted": 1,
+      "tampered_rejected": 1,
+      "operator_basis_residual": 0.0
+    }
+  ]
+}

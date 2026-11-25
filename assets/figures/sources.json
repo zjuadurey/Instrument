@@ -1,0 +1,32 @@
+[
+  {
+    "file": "paper-overview.png",
+    "source_pdf": "pldi2027-paper1226.pdf",
+    "source_sha256": "7dfe8e4acf58773b45af367b4758de72834454fec1cbc8f52cfd5f72be54b15d",
+    "page": 8,
+    "figure": "Figure 5",
+    "crop_box_points": [
+      43,
+      84,
+      443,
+      317
+    ],
+    "dpi": 288,
+    "image_sha256": "57beb6574707dd966b2b0205b196c2c34ecaa158f2b023875eeaf6c930e46143"
+  },
+  {
+    "file": "paper-results.png",
+    "source_pdf": "pldi2027-paper1226.pdf",
+    "source_sha256": "7dfe8e4acf58773b45af367b4758de72834454fec1cbc8f52cfd5f72be54b15d",
+    "page": 11,
+    "figure": "Figure 6",
+    "crop_box_points": [
+      43,
+      84,
+      443,
+      256
+    ],
+    "dpi": 288,
+    "image_sha256": "b78ff598503d97cea3ed6d1271dc1aee77208794a37d28cd3f3e9a26b2986dc8"
+  }
+]
